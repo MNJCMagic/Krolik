@@ -13,5 +13,11 @@ Krolik is a multi-player multi-device tag/assassination game with a Soviet-era s
 * Firebase Cloud Functions (Javascript) triggered by database changes scrape for player data and form and send custom push notifications
 * Kairos API checks submitted photos for facial presence upon enrolment and identity during gameplay
 
+### Future Updates
+
+* Location based tracking providing periodic updates to players about target's last known relative location
+* More game modes including team deathmatch (where players only have the nickname of their target), free-for-all, and more
+* Customizable profile photos using overlays (eye patches, comical hats, etc)
+
 ### Screenshots
 <a href="url"><img src="https://github.com/irawrmike/Krolik/blob/master/Krolik/Screenshots/Screenshot-01.png" align="left" heignt="441.6" width="248.4"></a>
